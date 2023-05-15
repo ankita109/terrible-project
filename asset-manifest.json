@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/terrible-project/static/css/main.9f909f7f.css",
+    "main.js": "/terrible-project/static/js/main.72646f31.js",
+    "static/js/787.04a07c5f.chunk.js": "/terrible-project/static/js/787.04a07c5f.chunk.js",
+    "index.html": "/terrible-project/index.html",
+    "main.9f909f7f.css.map": "/terrible-project/static/css/main.9f909f7f.css.map",
+    "main.72646f31.js.map": "/terrible-project/static/js/main.72646f31.js.map",
+    "787.04a07c5f.chunk.js.map": "/terrible-project/static/js/787.04a07c5f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f909f7f.css",
+    "static/js/main.72646f31.js"
+  ]
+}
