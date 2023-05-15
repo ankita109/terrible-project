@@ -16,8 +16,8 @@ const Histogram = ({ data }) => {
           {
             label: 'Word Frequency',
             data: frequencies,
-            backgroundColor: 'rgba(54, 162, 235, 0.6)',
-            borderColor: 'rgba(54, 162, 235, 1)',
+            backgroundColor: 'rgba(215, 86, 144, 0.42)',
+            borderColor: 'rgba(245, 40, 145, 0.43)',
             borderWidth: 1,
             
           },
